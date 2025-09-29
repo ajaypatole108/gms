@@ -57,7 +57,7 @@
    "label": "Currency",
    "options": "Currency",
    "reqd": 1,
-   "default": "USD"
+   "default": "INR"
   },
   {
    "fieldname": "column_break_6",

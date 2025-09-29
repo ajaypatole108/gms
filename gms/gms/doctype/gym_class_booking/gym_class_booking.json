@@ -94,7 +94,7 @@
    "fieldtype": "Link",
    "label": "Currency",
    "options": "Currency",
-   "default": "USD"
+   "default": "INR"
   },
   {
    "fieldname": "section_break_12",

@@ -83,7 +83,7 @@ app_license = "mit"
 # ------------
 
 # before_install = "gms.install.before_install"
-after_install = "gms.install.after_install"
+# after_install = "gms.install.after_install"
 
 # Uninstallation
 # ------------
