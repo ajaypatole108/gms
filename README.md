@@ -31,7 +31,7 @@
 1. **Clone the repository**:
 ```bash
 cd $PATH_TO_YOUR_BENCH
-bench get-app https://github.com/your-repo/gms --branch develop
+bench get-app https://github.com/your-repo/gms --branch main
 ```
 
 2. **Install the app**:
